@@ -1,0 +1,7 @@
+C:\Gondo_lab\c#\chatgpt\ConsoleApp-crud_bd\bin\Debug\ConsoleApp-crud_bd.exe.config
+C:\Gondo_lab\c#\chatgpt\ConsoleApp-crud_bd\bin\Debug\ConsoleApp-crud_bd.exe
+C:\Gondo_lab\c#\chatgpt\ConsoleApp-crud_bd\bin\Debug\ConsoleApp-crud_bd.pdb
+C:\Gondo_lab\c#\chatgpt\ConsoleApp-crud_bd\obj\Debug\ConsoleApp-crud_bd.csproj.AssemblyReference.cache
+C:\Gondo_lab\c#\chatgpt\ConsoleApp-crud_bd\obj\Debug\ConsoleApp-crud_bd.csproj.CoreCompileInputs.cache
+C:\Gondo_lab\c#\chatgpt\ConsoleApp-crud_bd\obj\Debug\ConsoleApp-crud_bd.exe
+C:\Gondo_lab\c#\chatgpt\ConsoleApp-crud_bd\obj\Debug\ConsoleApp-crud_bd.pdb
